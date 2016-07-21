@@ -1,0 +1,10 @@
+name: Data_Products
+account: gopalbhatta
+server: shinyapps.io
+appId: 115948
+bundleId: 511634
+url: https://gopalbhatta.shinyapps.io/Data_Products/
+when: 1469112204.15655
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Packages installed.R|RPackages.pdf|shiny2.pdf
